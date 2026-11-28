@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "tn.affichesetiquettes.app",
-    "sha256_cert_fingerprints": ["6C:BD:F9:AE:A8:B4:45:16:C3:C2:26:9F:5C:AF:5C:1D:B9:13:D4:B3:77:84:21:4A:B8:AE:37:B9:67:5B:55:D4"]
+    "sha256_cert_fingerprints": [
+      "6C:BD:F9:AE:A8:B4:45:16:C3:C2:26:9F:5C:AF:5C:1D:B9:13:D4:B3:77:84:21:4A:B8:AE:37:B9:67:5B:55:D4",
+      "BA:B7:7F:02:FA:39:ED:87:7D:C8:87:74:73:C4:9D:78:67:D3:1D:9F:F8:15:48:30:0F:46:E4:F4:38:F2:46:A4"
+    ]
   }
 }]
